@@ -6,7 +6,9 @@
 }
 
 body {
-    background: #222;
+    background: linear-gradient(125deg, #00feba, #5b548a);
+    min-height: 100vh;
+    margin: 0;
 }
 
 .contenedor {
