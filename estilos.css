@@ -9,16 +9,19 @@ body {
     background: linear-gradient(125deg, #00feba, #5b548a);
     min-height: 100vh;
     margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .contenedor {
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(125deg, #00feba, #5b548a);
+    background: transparent;
     color: #fff;
-    margin: 100px auto 0;
+    margin: 0 auto;
     border-radius: 20px;
-    padding: 40px 35px;
+    padding: 20px 15px;
     text-align: center;
 }
 
